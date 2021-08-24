@@ -1,6 +1,6 @@
 # Introduction
 Industrial Training report
-Presenetation
-Certificate
 
+Certificate
+new changes
 
